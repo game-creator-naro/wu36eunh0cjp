@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "gameId": "wu36eunh0cjp",
+  "title": "ぱくぱくジャッジ",
+  "versionId": "42a2c8f8-b3b9-4632-afc3-4db76f88ec04",
+  "snapshotAt": "2026-10-21T09:14:22.153Z",
+  "playUrl": "https://gcn-play.com/play/wu36eunh0cjp",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1874,
+      "sha256": "21b8c17fb6884803e031eab03f345b32eba766f244c24e97d6b1c30a114d3092"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 3529476,
+      "sha256": "a1fd4fd5832d1d1880e2d4b84bf362910d0003852bb24fb7a0e85d77a388f371"
+    },
+    {
+      "path": "assets/images/mascot_bad.png",
+      "mime": "image/png",
+      "bytes": 202722,
+      "sha256": "384b8c9d335c61d9670087827b45aee7fddf18985f63dc06f787874bcfd94e95"
+    },
+    {
+      "path": "assets/images/mascot_eat.png",
+      "mime": "image/png",
+      "bytes": 176562,
+      "sha256": "0388a4b4f1b5e64b03384bba84758cb996dcaa4b7723444bb3065f56dfb53ae7"
+    },
+    {
+      "path": "assets/images/mascot_idle.png",
+      "mime": "image/png",
+      "bytes": 197657,
+      "sha256": "69f0ac31899cbe069cf13189a9f85f1021b89fec16a8aa4421f0c23b4b934bf1"
+    },
+    {
+      "path": "assets/music/bgm_main.wav",
+      "mime": "audio/wav",
+      "bytes": 1323044,
+      "sha256": "23cf1a60a0b4a43831e5e70e49860f26ac827d8d6c3ec03a231fdfbbe759dc66"
+    },
+    {
+      "path": "assets/sfx/se_correct.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "c09434afc7e15368e6acf68c89bba2f5e0fb3eaccc712e54c6e6bd7b1f1b6b4c"
+    },
+    {
+      "path": "assets/sfx/se_eat.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "8b2d631b44a5ad4bf3d715407e8d83e6564698d0397b65ecddf5c44dfd593ce7"
+    },
+    {
+      "path": "assets/sfx/se_miss.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "35cc816842d85c775cb038355ccfb4c652bcc53d63922255036a9d7d8aed5373"
+    },
+    {
+      "path": "assets/sfx/se_reject.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "be12ee44dae9ca7e0b4365ba3b1a93cd964e3ea90b4354ed1a15f540151f6a56"
+    }
+  ],
+  "skipped": []
+}
