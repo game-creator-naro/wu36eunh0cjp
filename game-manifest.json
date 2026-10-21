@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "gameId": "wu36eunh0cjp",
-  "title": "無題のゲーム",
+  "title": "ぱくぱくジャッジ",
   "versionId": "42a2c8f8-b3b9-4632-afc3-4db76f88ec04",
-  "snapshotAt": "2026-10-21T08:05:56.598Z",
+  "snapshotAt": "2026-10-21T09:14:22.153Z",
   "playUrl": "https://gcn-play.com/play/wu36eunh0cjp",
   "files": [
     {
       "path": "README.md",
       "mime": "text/markdown; charset=utf-8",
-      "bytes": 1868,
-      "sha256": "5947e19761eaf49a07df4542f267339de1bf061d2b7bed75b9f6728388375430"
+      "bytes": 1874,
+      "sha256": "21b8c17fb6884803e031eab03f345b32eba766f244c24e97d6b1c30a114d3092"
     },
     {
       "path": "index.html",

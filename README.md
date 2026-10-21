@@ -1,4 +1,4 @@
-# 無題のゲーム
+# ぱくぱくジャッジ
 
 ▶ 遊ぶ: https://gcn-play.com/play/wu36eunh0cjp
 （このゲームが公開されていない間、上の URL は開けません）
